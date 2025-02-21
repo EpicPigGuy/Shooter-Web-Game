@@ -1,9 +1,5 @@
 # webgame
 
-NEW UPDATES WILL BE ON @EpicPigGuy
-
-EpicPigGuy is my main github account, and so, updates will not be posted here
-
 my cube html web game
 
 Space/Left click - shoot
